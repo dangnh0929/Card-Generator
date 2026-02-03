@@ -1,4 +1,5 @@
-# card_generator
+# Card Generator
+Training Project
 
 1. Setup environment variables:
 ```sh
